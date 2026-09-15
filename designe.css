@@ -55,7 +55,7 @@ body{
 }
 .home a{
    width: 100px;
-   padding: 0px 7px;
+   padding: 0px 9px;
     text-decoration: none;
     text-align: center;
     font-size: 20px;
@@ -364,19 +364,22 @@ justify-content: start;
  gap: 35px;
   column-gap: 45px;
 margin: 0 20px;
-text-decoration:none;
+
 font-size: 25px;
 font-weight: 700;
 
+
 }
 .nav a{
-    
-    
-  padding: 0 70px;   
+   padding: 0 50px;    
+   
 }
+   
+
 .lan a{
     font-size: 30px;
      text-decoration: none;
+     
    
 }
 
