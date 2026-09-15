@@ -361,7 +361,8 @@ nav{
 .nav{
 display: flex;
 justify-content: start;
-gap: 35px;
+ gap: 35px;
+  column-gap: 45px;
 margin: 0 20px;
 text-decoration:none;
 font-size: 25px;
@@ -370,12 +371,15 @@ font-weight: 700;
 }
 .nav a{
     text-decoration: none;
+     text-decoration: none;
+  padding: 0 10px;   
 }
 .lan a{
     font-size: 30px;
      text-decoration: none;
    
 }
+
 
 
 
