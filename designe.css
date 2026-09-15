@@ -351,7 +351,7 @@ nav{
 .lan{
     display: flex;
     justify-content: space-around;
-    gap: 30px;
+    gap: 40px;
     border: #d4af37 solid ;
     width: max-content;
    padding: 0px 20px;
@@ -372,7 +372,7 @@ font-weight: 700;
 .nav a{
     text-decoration: none;
      text-decoration: none;
-  padding: 0 10px;   
+  padding: 0 40px;   
 }
 .lan a{
     font-size: 30px;
