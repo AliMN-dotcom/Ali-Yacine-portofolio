@@ -200,11 +200,14 @@ body{
     margin-bottom: 60px; 
     color: #efe7d8;
 }
-.derection p{
+.derection p  {
      font-size: 20px;
     font-family: 'Cormorant Garamond', serif;
     margin-bottom: 20px;
     color: #1b2a4a;
+}
+.derection h1{
+    color:#1b2a4a ;
 }
 
 /* ============ Projects ============ */
