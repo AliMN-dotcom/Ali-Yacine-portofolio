@@ -374,7 +374,7 @@ font-weight: 700;
    padding: 0 20px;    
    
 }
-   
+
 
 .lan a{
     font-size: 30px;
@@ -416,9 +416,12 @@ body {
         margin-left: 0;
         font-size: 21px;
     }
+ 
+   
 
     .lan {
         order: -1;
+        justify-content: center;
     }
 
     .all {
@@ -514,12 +517,16 @@ body {
     .nav {
         gap: 20px 18px;
         font-size: 18px;
+        justify-content: center;
     }
 
     .lan {
         gap: 18px;
         padding: 0 15px;
+        justify-content: center;
     }
+   
+   
 
     .lan a {
         font-size: 24px;
